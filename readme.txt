@@ -2,10 +2,10 @@
 Contributors: matsuoshi
 Tags: maintenance mode, maintenance
 Tested up to: 4.9.5
+Stable tag: 1.0.0
 License: GPLv2
 
-Maintenance Mode for Non-administrator login users.
-Only Administrator can access the Admin-page.
+Maintenance Mode for Non-administrator login users. Only Administrator can access the Admin-page.
 
 == Description ==
 
