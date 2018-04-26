@@ -23,4 +23,4 @@ Meanwhile, this plugin doesn't block visitors' access to the site.
 == Changelog ==
 
 = 1.0.0 =
-- First Release
+* First Release

@@ -2,7 +2,7 @@
 /*
 Plugin Name: Admin Hot Maintenance Mode
 Description: Maintenance Mode for Non-administrator login users (editor, writer etc.)
-Version: 1.0
+Version: 1.0.0
 Author: h.matsuo
 Author URI: https://github.com/matsuoshi/WP-Admin-Hot-Maintenance-Mode
 License: GPLv2
